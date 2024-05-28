@@ -1,0 +1,14 @@
+{
+  "name": "episode-2",
+  "version": "1.0.0",
+  "description": "This is a react parcel package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Raj sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
